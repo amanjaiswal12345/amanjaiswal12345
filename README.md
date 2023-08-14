@@ -53,5 +53,5 @@ Here are some deas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanjaiswal12345&show_icons=true&locale=en" alt="amanjaiswal12345" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanjaiswal12345&" alt="amanjaiswal12345" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanjaiswal12345&" alt="amanjaiswal12345"  /></p>
 
